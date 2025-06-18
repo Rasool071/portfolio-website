@@ -11,5 +11,5 @@ Sections for About Me, Projects, Skills, and Contact
 Easy to customize for personal use
 
 🌐 Live Preview
-[Add your live site link here, if hosted on GitHub Pages or elsewhere]
+https://rasool071.github.io/portfolio-website/
 
